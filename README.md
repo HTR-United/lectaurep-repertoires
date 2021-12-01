@@ -32,7 +32,7 @@ Les corpus `lectaurep-repertoires` rassemblent les données d'entraînement spé
 
 - le texte suscrit a été signalé par un `^` liminaire. Le phénomène "**dud<sup>t</sup>**" (dudit) est donc transcrit par "dud^t".
 
-- l'emploi des minuscules et majuscule a été respecté.
+- l'emploi des minuscules et majuscules a été respecté.
 
 
 ![illus_superscript](static/img/illus_ligatures.png)
