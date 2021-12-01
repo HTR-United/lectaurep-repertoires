@@ -4,7 +4,7 @@
 Lectaurep-Repertoires, ground truth for various Parisian notary's registries of deeds (French 19th and 20th centuries) 
 
 <!-- badges -->
-[![CC BY 4.0][cc-by-shield]][cc-by]
+![CC BY 4.0][cc-by-shield]
 ![Region Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/0e95bc706b498b2b8428697e992a5755/raw/rep_regions.json)
 ![Lines Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/0e95bc706b498b2b8428697e992a5755/raw/rep_lines.json)
 ![Characters Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/0e95bc706b498b2b8428697e992a5755/raw/rep_chars.json)
