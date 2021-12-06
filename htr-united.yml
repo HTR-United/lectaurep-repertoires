@@ -1,0 +1,52 @@
+schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
+title: lectaurep-repertoires
+url: 'https://github.com/HTR-United/lectaurep-repertoires'
+project-name: >
+    LECTAUREP'
+project-website: 'https://lectaurep.hypotheses.org/'
+authors:
+    - name: 'Durand'
+      surname: 'Marc'
+      roles:
+      - 'transcriber'
+      - 'aligner'
+    - name: 'Chagué'
+      surname: 'Alix'
+      roles:
+      - 'transcriber'
+      - 'project-manager'
+      - 'quality-control'
+      - 'support'
+    - name: 'Rostaing'
+      surname: 'Aurélia'
+      roles:
+      - 'project-manager'
+      - 'quality-control'
+description: >
+  Ground truth for various Parisian registries of notary deeds written in French during the 19th century. The information is organized following pre-preinted tables (with printed headers) and contain many names, addresses, numbers and abbreviations. 
+language:
+  - fra
+script: 
+  - Latn
+script-type: 'only-manuscript'
+time: 
+  notBefore: "1907"
+  notAfter: "1908"
+hands: 
+  count: '1-per-folder'
+  precision: 'exact'
+license:
+  - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+format: 'Page-XML'
+volume:
+  - metric: 'regions'
+    count: 327
+  - metric: 'pages'
+    count: 35
+  - metric: 'lines'
+    count: 7388
+  - metric: 'characters'
+    count: 128679
+citation-file-link: 'https://raw.githubusercontent.com/HTR-United/lectaurep-repertoires/main/CITATION.cff'
+transcription-guidelines: >
+    See README in repository'
