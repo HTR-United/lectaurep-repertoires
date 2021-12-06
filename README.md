@@ -5,9 +5,9 @@ Lectaurep-Repertoires, ground truth for various Parisian notary's registries of 
 
 <!-- badges -->
 ![CC BY 4.0](https://img.shields.io/badge/license-CC--BY-lightgrey)
-![Region Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/0e95bc706b498b2b8428697e992a5755/raw/rep_regions.json)
-![Lines Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/0e95bc706b498b2b8428697e992a5755/raw/rep_lines.json)
-![Characters Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/0e95bc706b498b2b8428697e992a5755/raw/rep_chars.json)
+![Region Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/3c059562743dbd31b7b71cb41f74347c/raw/rep_regions.json)
+![Lines Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/3c059562743dbd31b7b71cb41f74347c/raw/rep_lines.json)
+![Characters Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/3c059562743dbd31b7b71cb41f74347c/raw/rep_chars.json)
 
 
 ## Contexte de production 
