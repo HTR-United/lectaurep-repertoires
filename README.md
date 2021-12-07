@@ -44,6 +44,15 @@ Les corpus `lectaurep-repertoires` rassemblent les données d'entraînement spé
 
 - les segments correspondant à du texte pré-imprimés sont signalé par le type "printed"
 
+## Les autres dépôts LECTAUREP
+
+<!--➡️ [Lectaurep-repertoires](https://github.com/HTR-United/lectaurep-repertoires)-->
+
+➡️ [Lectaurep-bronod](https://github.com/HTR-United/lectaurep-bronod)
+
+➡️ [Lectaurep-mariages-et-divorces](https://github.com/HTR-United/lectaurep-mariages-et-divorces)
+
+
 
 ---
 
