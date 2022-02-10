@@ -1,8 +1,8 @@
 schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
-title: lectaurep-repertoires
+title: Notaire de Paris - Répertoires
 url: 'https://github.com/HTR-United/lectaurep-repertoires'
 project-name: >
-    LECTAUREP'
+    LECTAUREP
 project-website: 'https://lectaurep.hypotheses.org/'
 authors:
     - name: 'Durand'
@@ -20,6 +20,7 @@ authors:
     - name: 'Rostaing'
       surname: 'Aurélia'
       roles:
+      - 'transcriber'
       - 'project-manager'
       - 'quality-control'
 description: >
@@ -39,14 +40,19 @@ license:
   - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
 format: 'Page-XML'
 volume:
+  - metric: 'pages'
+    count: 35
   - metric: 'regions'
     count: 327
-  - metric: 'pages'
+  - metric: 'files'
     count: 35
   - metric: 'lines'
     count: 7388
   - metric: 'characters'
     count: 128679
-citation-file-link: 'https://raw.githubusercontent.com/HTR-United/lectaurep-repertoires/main/CITATION.cff'
+sources:
+  - reference: 'Rostaing, A., Durand, M., & Chagué, A. (2021). lectaurep-repertoires, ground truth for various Parisian registries of notary deeds (French 19th and 20th centuries) (Version 1.0.0) [Computer software]. https://doi.org/10.5072/zenodo.977691'
+    link: ''
+citation-file-link: 'https://github.com/HTR-United/lectaurep-repertoires/raw/main/CITATION.cff'
 transcription-guidelines: >
-    See README in repository'
+    See README in repository.
