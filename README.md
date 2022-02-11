@@ -1,7 +1,7 @@
 <img src="static/img/logo_lectaurep.png" width=150 align=right>
 
 # Notaires de Paris - Répertoires
-"Notaires de Paris - Répertoires", ground truth for various Parisian notary's registries of deeds (French 19th and 20th centuries) 
+Ground truth for various Parisian notary's registries of deeds (French 19th and 20th centuries) 
 
 <!-- badges -->
 ![CC BY 4.0](https://img.shields.io/badge/license-CC--BY-lightgrey) [![DOI](https://sandbox.zenodo.org/badge/432959647.svg)](https://sandbox.zenodo.org/badge/latestdoi/432959647)
