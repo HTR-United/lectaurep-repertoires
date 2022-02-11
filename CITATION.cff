@@ -8,7 +8,7 @@ authors:
 - family-names: "Chagué"
   given-names: "Alix"
   orcid: "https://orcid.org/0000-0002-0136-4434"
-title: "lectaurep-repertoires, ground truth for various Parisian registries of notary deeds (French 19th and 20th centuries)"
+title: "LECTAUREP - Répertoires, ground truth for various Parisian registries of notary deeds (French 19th and 20th centuries)"
 version: 1.0.0
 doi: 10.5072/zenodo.977691 
 date-released: 2021-12-07
