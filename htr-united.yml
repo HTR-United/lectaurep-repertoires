@@ -1,35 +1,33 @@
 schema: https://htr-united.github.io/schema/2021-10-15/schema.json
-title: Notaires de Paris - Répertoires
+title: "Notaires de Paris - R\xE9pertoires"
 url: https://github.com/HTR-United/lectaurep-repertoires
 authors:
-  - name: Durand
-    surname: Marc
-    roles:
-      - transcriber
-      - aligner
-  - name: Rostaing
-    surname: Aurélia
-    roles:
-      - transcriber
-      - project-manager
-      - quality-control
-  - name: Chagué
-    surname: Alix
-    roles:
-      - project-manager
-      - quality-control
-      - support
-description: >-
-  Ground truth for various Parisian registries of notary deeds written in French
-  during the 19th century. The information is organized following pre-preinted
-  tables (with printed headers) and contain many names, addresses, numbers and
-  abbreviations.
+- name: Durand
+  surname: Marc
+  roles:
+  - transcriber
+  - aligner
+- name: Rostaing
+  surname: "Aur\xE9lia"
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
+- name: "Chagu\xE9"
+  surname: Alix
+  roles:
+  - project-manager
+  - quality-control
+  - support
+description: Ground truth for various Parisian registries of notary deeds written
+  in French during the 19th century. The information is organized following pre-preinted
+  tables (with printed headers) and contain many names, addresses, numbers and abbreviations.
 project-name: LECTAUREP
 project-website: https://lectaurep.hypotheses.org/
 language:
-  - fra
+- fra
 script:
-  - Latn
+- Latn
 script-type: only-manuscript
 time:
   notBefore: '1907'
@@ -38,10 +36,16 @@ hands:
   count: 1-per-folder
   precision: exact
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Page-XML
 volume:
-  - metric: files
-    count: 35
+- metric: characters
+  count: 0
+- metric: files
+  count: 35
+- metric: lines
+  count: 0
+- metric: regions
+  count: 0
 citation-file-link: https://github.com/HTR-United/lectaurep-repertoires/raw/main/CITATION.cff
