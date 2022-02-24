@@ -1,5 +1,3 @@
-
-
 # This file has been generated automatically with HTR-United <3 Github Actions form
 name: HTR United Workflow
 'on':
@@ -59,11 +57,6 @@ jobs:
           git add htr-united.yml ./badges/
           git commit -m "[Automatic] Update the Catalog & the Badges" || echo "Nothing to commit"
           git push || echo "Nothing to push"
-      - uses: rymndhng/release-on-push-action@master
-        if: ${{ github.ref == 'refs/heads/main' && github.event_name == 'push' }}
-        with:
-          bump_version_scheme: patch
-          use_github_release_notes: true
   HTRVX:
     runs-on: ubuntu-latest
     steps:
@@ -79,4 +72,3 @@ jobs:
       - name: Run HTRVX
         run: |
           htrvx --verbose --group --format page --check-empty ./data/**/*.xml
-
