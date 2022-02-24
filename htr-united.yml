@@ -41,11 +41,11 @@ license:
 format: Page-XML
 volume:
 - metric: characters
-  count: 0
+  count: 128679
 - metric: files
   count: 35
 - metric: lines
-  count: 0
+  count: 7388
 - metric: regions
-  count: 0
+  count: 327
 citation-file-link: https://github.com/HTR-United/lectaurep-repertoires/raw/main/CITATION.cff
