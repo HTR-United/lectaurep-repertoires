@@ -28,7 +28,7 @@ project-name: LECTAUREP
 project-website: https://lectaurep.hypotheses.org/
 language:
   - fra
-scripts:
+script:
   - Latn
 script-type: only-manuscript
 time:
