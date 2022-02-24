@@ -35,7 +35,7 @@ jobs:
           pip install htr-united-metadata-generator htruc anybadge
       - name: Run Report
         run: |
-          humGenerator --group ./data/**/*.xml --github-envs --to-json updated_metrics.json
+          humGenerator --parse page --group ./data/**/*.xml --github-envs --to-json updated_metrics.json
           cat envs.txt >> $GITHUB_ENV
       - name: Get HTR United Badge Template
         if: github.ref == 'refs/heads/main'
@@ -57,6 +57,11 @@ jobs:
           git add htr-united.yml ./badges/
           git commit -m "[Automatic] Update the Catalog & the Badges" || echo "Nothing to commit"
           git push || echo "Nothing to push"
+      - uses: rymndhng/release-on-push-action@master
+        if: ${{ github.ref == 'refs/heads/main' && github.event_name == 'push' }}
+        with:
+          bump_version_scheme: patch
+          use_github_release_notes: true
   HTRVX:
     runs-on: ubuntu-latest
     steps:
