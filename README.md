@@ -6,10 +6,10 @@ Ground truth for various Parisian notary's registries of deeds (French 19th and 
 <!-- badges -->
 ![CC BY 4.0](https://img.shields.io/badge/license-CC--BY-lightgrey) [![DOI](https://sandbox.zenodo.org/badge/432959647.svg)](https://sandbox.zenodo.org/badge/latestdoi/432959647)
 
-![Region Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/3c059562743dbd31b7b71cb41f74347c/raw/rep_regions.json)
-![Lines Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/3c059562743dbd31b7b71cb41f74347c/raw/rep_lines.json)
-![Characters Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/3c059562743dbd31b7b71cb41f74347c/raw/rep_chars.json)
+<!-- updated by workflow -->
+![Files Badges](badges/files.svg)  ![Regions Badges](badges/regions.svg)  ![Lines Badges](badges/lines.svg)  ![Chars Badges](badges/characters.svg)
 
+<!-- end badges -->
 
 ## Contexte de production 
 
