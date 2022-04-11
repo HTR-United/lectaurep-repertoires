@@ -24,6 +24,7 @@ Les corpus `lectaurep-repertoires` rassemblent les données d'entraînement spé
 | Nom                | Importance matérielle | Dates extremes    | Particularité | Notaire  | Identifiant db |
 | ------------------ | --------------------- | ----------------- | ------------- | -------- | -------------- |
 | lectaurep-rigault6 | 35 pages              | 05/1907 - 03/1908 | 1 seule main  | Rigault  | [#50](https://escriptorium.inria.fr/document/50/images/) (2-37) |
+| lectaurep-random-set-1 | 38 pages          | 07/1903 - 03/1939 | +/-10 mains | _ | [#145](https://escriptorium.inria.fr/document/145/images/) (1-20, 37-40, 48-58, 94-96) |
 
 
 
@@ -35,6 +36,8 @@ Les corpus `lectaurep-repertoires` rassemblent les données d'entraînement spé
 
 - l'emploi des minuscules et majuscules a été respecté.
 
+- quelques mots non-lus sont notés `XXX`
+
 
 ![illus_superscript](static/img/illus_ligatures.png)
 
@@ -44,6 +47,7 @@ Les corpus `lectaurep-repertoires` rassemblent les données d'entraînement spé
 ![illus_superscript](static/img/illus_printed.png)
 
 - les segments correspondant à du texte pré-imprimés sont signalé par le type "printed"
+
 
 ## Les autres dépôts LECTAUREP
 
