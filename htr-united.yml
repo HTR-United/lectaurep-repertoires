@@ -20,7 +20,7 @@ authors:
   - quality-control
   - support
 description: Ground truth for various Parisian registries of notary deeds written
-  in French during the 19th century. The information is organized following pre-preinted
+  in French during the 19th century. The information is organized following pre-printed
   tables (with printed headers) and contain many names, addresses, numbers and abbreviations.
 project-name: LECTAUREP
 project-website: https://lectaurep.hypotheses.org/
@@ -28,13 +28,13 @@ language:
 - fra
 script:
 - Latn
-script-type: only-manuscript
+script-type: mainly-manuscript
 time:
-  notBefore: '1907'
-  notAfter: '1908'
+  notBefore: '1830'
+  notAfter: '1939'
 hands:
-  count: 1-per-folder
-  precision: exact
+  count: more-than-10
+  precision: estimated
 license:
 - name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
