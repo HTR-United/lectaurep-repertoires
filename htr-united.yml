@@ -43,9 +43,9 @@ volume:
 - metric: characters
   count: 128679
 - metric: files
-  count: 35
+  count: 73
 - metric: lines
-  count: 7388
+  count: 14722
 - metric: regions
   count: 327
 citation-file-link: https://github.com/HTR-United/lectaurep-repertoires/raw/main/CITATION.cff
