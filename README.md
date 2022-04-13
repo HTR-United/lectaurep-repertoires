@@ -27,7 +27,7 @@ Les corpus `lectaurep-repertoires` rassemblent les données d'entraînement spé
 | lectaurep-random-set-1 | 38 pages          | 07/1903 - 03/1939 | +/-10 mains | _ | [#145](https://escriptorium.inria.fr/document/145/images/) (1-20, 37-40, 48-58, 94-96) |
 | lectaurep-random-set-2 | 5 pages          | 07/1908 - 07/1935 | +/- 3 mains | _ | [#156](https://escriptorium.inria.fr/document/156/images/) (1-5) |
 | lectaurep-riant-4 | 30 pages          | 07/1830 - 07/1830 | 1 seule main | Riant | [#77](https://escriptorium.inria.fr/document/77/images/) (1-30) |
-| lectaurep-dufour-1 | 100 pages          | 05/1850 - 04/1851 | 1 seule main | Riant | [#87](https://escriptorium.inria.fr/document/87/images/) (1-100) |
+| lectaurep-dufour-1 | 100 pages          | 05/1850 - 04/1851 | 1 seule main | Dufour | [#87](https://escriptorium.inria.fr/document/87/images/) (1-100) |
 
 
 
