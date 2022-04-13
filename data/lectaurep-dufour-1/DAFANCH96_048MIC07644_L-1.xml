@@ -378,7 +378,7 @@
                     WIDTH="727"
                     HEIGHT="76">
             <Shape><Polygon POINTS="645 647 648 615 675 601 702 615 771 605 805 615 822 603 844 623 861 610 915 620 960 610 999 628 1016 610 1090 610 1119 623 1134 610 1178 618 1227 605 1249 623 1328 593 1365 618 1372 637 1365 655 1313 664 955 669 923 650 896 669 825 655 773 669 648 667"/></Shape>
-	    <String CONTENT="Comte de Geloes (par Mr Constantin César"
+	    <String CONTENT="Comte de Geloes (par M^r Constantin César"
                     HPOS="645"
                     VPOS="593"
                     WIDTH="727"
@@ -429,7 +429,7 @@
                     WIDTH="791"
                     HEIGHT="49">
             <Shape><Polygon POINTS="623 743 626 716 638 723 650 711 682 726 729 726 744 711 783 711 798 726 842 726 869 711 898 726 1004 711 1021 723 1082 711 1100 726 1124 716 1139 726 1164 718 1213 726 1230 716 1254 726 1274 711 1353 726 1382 713 1407 723 1414 740 1382 760 1308 750 1210 760 1043 750 1031 760 805 760 795 750 768 760 626 760"/></Shape>
-	    <String CONTENT="Roi des Pays Bas, demt à Paris, rue de Londres, 13,"
+	    <String CONTENT="Roi des Pays Bas, dem^t à Paris, rue de Londres, 13,"
                     HPOS="623"
                     VPOS="711"
                     WIDTH="791"
@@ -548,7 +548,7 @@
                     WIDTH="737"
                     HEIGHT="54">
             <Shape><Polygon POINTS="645 890 648 863 675 873 697 858 724 858 739 873 837 873 849 861 881 873 908 858 938 858 970 873 1016 875 1038 861 1097 875 1117 875 1132 861 1166 870 1235 861 1249 873 1284 861 1350 873 1375 861 1382 895 1375 912 1355 902 1259 902 1245 912 1213 902 1146 912 805 910 795 900 783 910 648 910"/></Shape>
-	    <String CONTENT="Le Dux (à Mr Etienne Marie Michel, Avocat,"
+	    <String CONTENT="Le Duc (à M^r Etienne Marie Michel, Avocat,"
                     HPOS="645"
                     VPOS="858"
                     WIDTH="737"
@@ -565,7 +565,7 @@
                     WIDTH="695"
                     HEIGHT="74">
             <Shape><Polygon POINTS="623 939 626 917 778 912 788 902 805 919 849 929 866 917 915 922 977 907 1058 919 1186 907 1232 924 1286 907 1311 912 1318 937 1308 959 1225 954 1195 976 1164 951 1102 961 1031 949 999 964 896 956 849 966 795 954 766 959 746 946 692 961 675 951 638 961 626 951"/></Shape>
-	    <String CONTENT="demt à Paris, ruede Provence, n°58, par Mr"
+	    <String CONTENT="dem^t à Paris, ruede Provence, n^o 58, par M^r"
                     HPOS="623"
                     VPOS="902"
                     WIDTH="695"
@@ -599,7 +599,7 @@
                     WIDTH="759"
                     HEIGHT="84">
             <Shape><Polygon POINTS="643 1040 650 1008 687 1018 699 1005 736 1010 763 993 800 1015 832 1010 849 1023 896 1003 913 1020 965 1005 1041 1018 1090 1018 1119 1005 1168 1008 1186 1023 1198 1010 1358 1005 1394 1023 1402 1040 1372 1059 1218 1054 1183 1077 1154 1057 1100 1057 1082 1072 1070 1062 1046 1072 1014 1057 979 1064 970 1054 849 1057 832 1067 744 1050 645 1057"/></Shape>
-	    <String CONTENT="demt à Paris, rue deVarennes, n°11, pour toucher"
+	    <String CONTENT="dem^t à Paris, rue deVarennes, n^o11, pour toucher"
                     HPOS="643"
                     VPOS="993"
                     WIDTH="759"
@@ -616,7 +616,7 @@
                     WIDTH="253"
                     HEIGHT="61">
             <Shape><Polygon POINTS="643 1096 648 1059 736 1052 795 1067 859 1062 896 1091 876 1113 645 1104"/></Shape>
-	    <String CONTENT="deMr Boursier,"
+	    <String CONTENT="deM^r Boursier,"
                     HPOS="643"
                     VPOS="1052"
                     WIDTH="253"
@@ -718,7 +718,7 @@
                     WIDTH="771"
                     HEIGHT="133">
             <Shape><Polygon POINTS="623 1187 626 1096 650 1111 756 1113 1011 1113 1031 1101 1102 1150 1151 1140 1178 1155 1210 1138 1264 1150 1387 1140 1394 1184 1343 1207 1291 1192 1264 1209 1249 1197 1102 1204 1090 1192 1036 1202 1011 1189 992 1199 812 1204 793 1216 768 1194 731 1204 707 1229 670 1204 626 1199"/></Shape>
-	    <String CONTENT="Mignon (par Mr Charles Théophile Victor) Propre"
+	    <String CONTENT="Mignon (par M^r Charles Théophile Victor) Prop^re"
                     HPOS="623"
                     VPOS="1096"
                     WIDTH="771"
@@ -735,7 +735,7 @@
                     WIDTH="752"
                     HEIGHT="74">
             <Shape><Polygon POINTS="633 1236 648 1207 704 1234 731 1207 766 1197 788 1216 844 1207 871 1214 908 1202 935 1214 955 1197 987 1209 1011 1189 1048 1216 1068 1199 1082 1214 1134 1199 1159 1219 1183 1207 1215 1211 1232 1199 1259 1209 1362 1202 1385 1231 1355 1251 1267 1258 1173 1246 1151 1258 915 1258 896 1246 834 1263 815 1253 739 1256 714 1243 682 1258 636 1248"/></Shape>
-	    <String CONTENT="demt à Paris, rue duRocher, n°30, auProfit de"
+	    <String CONTENT="dem^t à Paris, rue duRocher, n^o30, auProfit de"
                     HPOS="633"
                     VPOS="1189"
                     WIDTH="752"
@@ -769,7 +769,7 @@
                     WIDTH="744"
                     HEIGHT="94">
             <Shape><Polygon POINTS="643 1290 645 1251 682 1258 707 1243 734 1261 773 1265 798 1253 834 1263 879 1258 896 1246 918 1263 962 1253 1095 1263 1124 1251 1144 1261 1178 1248 1200 1258 1232 1251 1274 1258 1340 1246 1380 1268 1387 1285 1355 1302 1264 1300 1225 1337 1186 1300 1161 1295 1080 1307 923 1297 906 1310 857 1312 839 1297 773 1300 756 1312 736 1300 645 1305"/></Shape>
-	    <String CONTENT="Mr Henry Chagot, à la caisse des consignations"
+	    <String CONTENT="M^r Henry Chagot, à la caisse des consignations"
                     HPOS="643"
                     VPOS="1243"
                     WIDTH="744"
@@ -956,7 +956,7 @@
                     WIDTH="776"
                     HEIGHT="110">
             <Shape><Polygon POINTS="638 1486 640 1413 699 1403 719 1413 1048 1413 1095 1449 1124 1454 1171 1437 1215 1452 1299 1449 1323 1432 1343 1452 1380 1440 1414 1479 1367 1496 1166 1489 1139 1506 1070 1489 1043 1489 1019 1503 783 1486 682 1513 643 1486"/></Shape>
-	    <String CONTENT="Juzeaud (par Mr Pierre Hector) Commissionnaire"
+	    <String CONTENT="Juzeaud (par M^r Pierre Hector) Commissionnaire"
                     HPOS="638"
                     VPOS="1403"
                     WIDTH="776"
@@ -973,7 +973,7 @@
                     WIDTH="808"
                     HEIGHT="76">
             <Shape><Polygon POINTS="631 1523 638 1489 682 1516 776 1498 788 1486 888 1506 915 1496 947 1506 970 1496 1024 1503 1043 1489 1068 1489 1092 1501 1117 1494 1139 1508 1159 1494 1257 1501 1281 1489 1308 1506 1328 1496 1375 1501 1402 1481 1439 1523 1404 1548 1343 1543 1326 1557 1227 1540 1149 1540 1127 1550 1105 1533 1070 1540 1024 1530 1001 1545 962 1530 940 1548 898 1538 886 1548 773 1540 726 1552 636 1550"/></Shape>
-	    <String CONTENT="enmarchandises, demt à Paris, rue de Buffault,"
+	    <String CONTENT="enmarchandises, dem^t à Paris, rue de Buffault,"
                     HPOS="631"
                     VPOS="1481"
                     WIDTH="808"
@@ -990,7 +990,7 @@
                     WIDTH="746"
                     HEIGHT="56">
             <Shape><Polygon POINTS="626 1570 628 1550 648 1545 739 1552 773 1540 785 1552 815 1552 837 1540 864 1548 901 1538 933 1552 947 1538 984 1538 1006 1552 1021 1538 1114 1538 1137 1552 1348 1545 1365 1552 1372 1575 1281 1594 1237 1594 1222 1582 1156 1592 1117 1579 1016 1579 997 1594 896 1594 861 1579 736 1582 699 1594 687 1582 663 1582 628 1594"/></Shape>
-	    <String CONTENT="n°10, à Mr Claude Juzaud-Roux, ainé, son"
+	    <String CONTENT="n^o10, à M^r Claude Juzaud-Roux, ainé, son"
                     HPOS="626"
                     VPOS="1538"
                     WIDTH="746"
@@ -1007,7 +1007,7 @@
                     WIDTH="805"
                     HEIGHT="78">
             <Shape><Polygon POINTS="626 1626 660 1589 712 1611 748 1589 785 1594 800 1609 817 1594 857 1594 871 1604 903 1599 920 1614 950 1594 972 1616 999 1597 1026 1604 1041 1592 1132 1604 1200 1592 1230 1594 1249 1609 1353 1587 1367 1599 1404 1587 1431 1626 1392 1658 1303 1641 1274 1643 1259 1658 1222 1646 1156 1648 1141 1658 1124 1641 1011 1648 970 1638 952 1653 891 1641 719 1656 653 1646 631 1665"/></Shape>
-	    <String CONTENT="beau frère, négociant, demt à Angoulême (Charente)"
+	    <String CONTENT="beau frère, négociant, dem^t à Angoulême (Charente)"
                     HPOS="626"
                     VPOS="1587"
                     WIDTH="805"
@@ -1143,7 +1143,7 @@
                     WIDTH="791"
                     HEIGHT="73">
             <Shape><Polygon POINTS="633 1815 650 1798 702 1783 726 1790 815 1778 852 1795 915 1788 933 1771 1009 1790 1063 1778 1087 1790 1124 1778 1230 1786 1242 1798 1284 1783 1392 1776 1424 1810 1382 1830 1296 1830 1281 1844 1247 1825 1014 1835 977 1822 935 1835 803 1825 670 1839 650 1827 636 1842"/></Shape>
-	    <String CONTENT="après ledécès deMr Augustin Barthélemy) décédé"
+	    <String CONTENT="après ledécès deM^r Augustin Barthélemy) décédé"
                     HPOS="633"
                     VPOS="1771"
                     WIDTH="791"
@@ -1177,7 +1177,7 @@
                     WIDTH="786"
                     HEIGHT="74">
             <Shape><Polygon POINTS="628 1920 631 1886 675 1881 692 1893 766 1884 780 1871 822 1896 891 1881 913 1903 942 1881 967 1898 1024 1886 1048 1893 1065 1879 1112 1893 1134 1881 1156 1898 1173 1881 1215 1886 1230 1874 1249 1874 1269 1893 1311 1876 1338 1889 1385 1876 1407 1893 1414 1918 1311 1935 1193 1935 1159 1925 1141 1935 992 1928 972 1938 952 1928 918 1945 901 1935 798 1943 780 1925 734 1940 631 1928"/></Shape>
-	    <String CONTENT="d&#39;entreMrAugustin François Marie Cahouet et"
+	    <String CONTENT="d&#39;entreM^r Augustin François Marie Cahouet et"
                     HPOS="628"
                     VPOS="1871"
                     WIDTH="786"
@@ -1194,7 +1194,7 @@
                     WIDTH="746"
                     HEIGHT="59">
             <Shape><Polygon POINTS="653 1962 655 1930 672 1943 704 1933 731 1945 773 1928 798 1945 898 1935 915 1950 933 1933 955 1930 974 1943 999 1930 1009 1940 1058 1935 1090 1947 1119 1935 1139 1943 1156 1928 1183 1940 1311 1940 1343 1928 1392 1933 1399 1955 1392 1982 1380 1970 1358 1979 1262 1982 1149 1974 1124 1987 655 1979"/></Shape>
-	    <String CONTENT="Made Marguerite Favérolle, saVeuve demt à"
+	    <String CONTENT="Mad^e Marguerite Favérolle, saVeuve dem^t à"
                     HPOS="653"
                     VPOS="1928"
                     WIDTH="746"
@@ -1364,7 +1364,7 @@
                     WIDTH="753"
                     HEIGHT="66">
             <Shape><Polygon POINTS="636 2203 638 2166 685 2176 766 2168 793 2183 817 2166 871 2181 911 2166 947 2178 974 2166 1019 2178 1102 2166 1166 2185 1183 2171 1316 2181 1360 2173 1389 2195 1375 2220 1195 2217 1178 2232 1149 2220 1070 2215 1016 2232 982 2215 947 2225 881 2212 839 2222 827 2210 753 2222 638 2215"/></Shape>
-	    <String CONTENT="d&#39;entre Mr Augustin François Marie) et deMade"
+	    <String CONTENT="d&#39;entre M^r Augustin François Marie) et deMad^e"
                     HPOS="636"
                     VPOS="2166"
                     WIDTH="753"
@@ -1398,7 +1398,7 @@
                     WIDTH="776"
                     HEIGHT="74">
             <Shape><Polygon POINTS="633 2254 638 2215 748 2230 793 2217 830 2244 861 2212 901 2225 984 2217 1006 2234 1058 2220 1176 2234 1200 2220 1284 2215 1301 2227 1377 2232 1409 2249 1402 2266 1370 2279 1225 2264 1200 2274 832 2261 810 2274 746 2269 721 2281 694 2266 636 2286"/></Shape>
-	    <String CONTENT="Marguerite Faverolle saVeuve demt à Sceaux,"
+	    <String CONTENT="Marguerite Faverolle saVeuve dem^t à Sceaux,"
                     HPOS="633"
                     VPOS="2212"
                     WIDTH="776"
@@ -1415,7 +1415,7 @@
                     WIDTH="783"
                     HEIGHT="69">
             <Shape><Polygon POINTS="643 2303 655 2276 682 2279 697 2266 721 2286 748 2269 778 2281 839 2269 864 2288 896 2274 920 2279 942 2269 955 2279 989 2266 1011 2279 1028 2269 1114 2269 1137 2284 1168 2266 1198 2281 1218 2271 1272 2281 1328 2274 1348 2286 1416 2269 1426 2303 1409 2335 1367 2318 925 2325 898 2315 803 2325 741 2313 724 2330 648 2318"/></Shape>
-	    <String CONTENT="dela Succession demond. Sr Cahouet et de celle de"
+	    <String CONTENT="dela Succession demond. S^r Cahouet et de celle de"
                     HPOS="643"
                     VPOS="2266"
                     WIDTH="783"
@@ -1432,7 +1432,7 @@
                     WIDTH="722"
                     HEIGHT="103">
             <Shape><Polygon POINTS="645 2355 648 2315 721 2328 741 2311 788 2330 837 2318 859 2335 888 2315 913 2315 925 2328 1011 2320 1085 2333 1114 2318 1137 2325 1164 2315 1200 2328 1232 2313 1254 2328 1360 2315 1367 2347 1355 2367 1259 2367 1235 2379 1213 2369 1129 2369 1119 2379 1092 2369 1038 2414 992 2369 928 2374 812 2362 761 2377 744 2360 648 2369"/></Shape>
-	    <String CONTENT="Mr Augustin Barthélemy Cahouet, décédé"
+	    <String CONTENT="M^r Augustin Barthélemy Cahouet, décédé"
                     HPOS="645"
                     VPOS="2311"
                     WIDTH="722"
@@ -1551,7 +1551,7 @@
                     WIDTH="752"
                     HEIGHT="113">
             <Shape><Polygon POINTS="633 2499 638 2431 780 2421 807 2428 822 2418 839 2428 933 2428 945 2416 965 2428 1060 2423 1114 2477 1168 2482 1191 2460 1240 2475 1296 2465 1321 2475 1350 2470 1385 2499 1358 2529 1338 2519 1193 2512 1181 2499 1159 2517 1114 2519 1011 2522 984 2512 945 2522 790 2522 766 2499 748 2499 721 2522 638 2519"/></Shape>
-	    <String CONTENT="Thierry (par Mr Charles Savinien) architecte"
+	    <String CONTENT="Thierry (par M^r Charles Savinien) architecte"
                     HPOS="633"
                     VPOS="2416"
                     WIDTH="752"
@@ -1568,7 +1568,7 @@
                     WIDTH="752"
                     HEIGHT="76">
             <Shape><Polygon POINTS="633 2546 638 2517 719 2524 748 2512 761 2519 773 2507 788 2522 822 2512 837 2522 915 2517 955 2529 989 2509 1060 2534 1085 2514 1156 2514 1181 2502 1257 2519 1286 2512 1301 2522 1365 2524 1385 2551 1358 2566 1323 2556 1311 2568 1232 2556 1159 2566 1087 2561 1063 2544 1043 2563 1001 2553 940 2566 748 2556 712 2568 670 2558 636 2578"/></Shape>
-	    <String CONTENT="demt à Paris, rue Royer Collard, n°13, (en"
+	    <String CONTENT="dem^t à Paris, rue Royer Collard, n^o13, (en"
                     HPOS="633"
                     VPOS="2502"
                     WIDTH="752"
@@ -1602,7 +1602,7 @@
                     WIDTH="334"
                     HEIGHT="62">
             <Shape><Polygon POINTS="648 2644 653 2612 714 2612 736 2629 780 2612 832 2610 842 2620 866 2607 977 2622 982 2644 967 2666 930 2654 903 2669 653 2669"/></Shape>
-	    <String CONTENT="décès deMr Baron."
+	    <String CONTENT="décès deM^r Baron."
                     HPOS="648"
                     VPOS="2607"
                     WIDTH="334"
