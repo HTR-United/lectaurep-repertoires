@@ -41,11 +41,11 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 344513
+  count: 509569
 - metric: files
-  count: 118
+  count: 218
 - metric: lines
-  count: 20326
+  count: 29410
 - metric: regions
-  count: 1038
+  count: 1138
 citation-file-link: https://github.com/HTR-United/lectaurep-repertoires/raw/main/CITATION.cff
