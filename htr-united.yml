@@ -1,4 +1,4 @@
-schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: "Notaires de Paris - R\xE9pertoires"
 url: https://github.com/HTR-United/lectaurep-repertoires
 authors:
@@ -27,7 +27,7 @@ project-website: https://lectaurep.hypotheses.org/
 language:
 - fra
 script:
-- Latn
+- iso: Latn
 script-type: mainly-manuscript
 time:
   notBefore: '1830'
@@ -49,3 +49,4 @@ volume:
 - metric: regions
   count: 1138
 citation-file-link: https://github.com/HTR-United/lectaurep-repertoires/raw/main/CITATION.cff
+production-software: eScriptorium + Kraken
